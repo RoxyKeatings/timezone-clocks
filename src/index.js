@@ -49,7 +49,7 @@ function updateCity(event) {
                   "h:mm:ss [<small>] A [</small>]"
                 )}</div>
             </div>
-  <a href="index.html">Reset</a>
+  <a href="/">Reset to Home</a>
   `;
 }
 let citiesSelectElement = document.querySelector("#city");
